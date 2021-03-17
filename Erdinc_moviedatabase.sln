@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erdinc_moviedatabase", "Erdinc_moviedatabase\Erdinc_moviedatabase.csproj", "{0D63CD94-C901-42FE-8427-03724E683C2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Erdinc_Bibliothek", "Erdinc_Bibliothek\Erdinc_Bibliothek.csproj", "{05D444E6-E74D-4EDA-9A6A-AA9B7ED86357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D63CD94-C901-42FE-8427-03724E683C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D63CD94-C901-42FE-8427-03724E683C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D63CD94-C901-42FE-8427-03724E683C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D63CD94-C901-42FE-8427-03724E683C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D444E6-E74D-4EDA-9A6A-AA9B7ED86357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D444E6-E74D-4EDA-9A6A-AA9B7ED86357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D444E6-E74D-4EDA-9A6A-AA9B7ED86357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D444E6-E74D-4EDA-9A6A-AA9B7ED86357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4682A61-FF68-4A17-9287-A7B04657181A}
+	EndGlobalSection
+EndGlobal
